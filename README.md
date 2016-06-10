@@ -1,2 +1,2 @@
-#Use Semantic-UI 製作網誌
+#Use Semantic-UI 製作網頁
 
